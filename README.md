@@ -12,6 +12,10 @@
 - [ESLint Configuration](#eslint-configuration)
 - [LinkedIn](#linkedIn)
 
+
+
+
+
 <!-- About Section -->
 ## About
 <p>
@@ -86,6 +90,9 @@ Configure the top-level `parserOptions` property like this:
   }
 }
 
+
+```
+<!-- LinkedIn Section -->
 ## LinkedIn
 <!-- LinkedIn Profile Button -->
 <p>
@@ -93,3 +100,4 @@ Configure the top-level `parserOptions` property like this:
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
 </p>
+
